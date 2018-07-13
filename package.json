@@ -1,0 +1,13 @@
+{
+  "name": "clean-undefined",
+  "version": "1.0.0",
+  "description": "Delete object fields of undefined.",
+  "main": "index.js",
+  "keywords": [
+    "clean",
+    "undefined"
+  ],
+  "author": "zhaoyao91 <zhaoyao91@gmail.com>",
+  "repository": "https://github.com/zhaoyao91/clean-undefiend",
+  "license": "MIT"
+}
